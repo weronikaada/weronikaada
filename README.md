@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @weronikaada
-- 👀 I’m interested in innovation, creating knowledge through data.
-- 🌱 I’m currently refreshing my knowledge related to data analytics and actively applying for new jobs.
-- 💞️ I’m looking to collaborate on data science/research projects, startup projects.
+- 👀 I’m interested in startups, innovation and creating knowledge through data.
+- 🌱 I’m currently refreshing my data analytics skills and actively applying for new jobs.
+- 💞️ I’m looking to collaborate on data science/research projects and startup projects.
 - 📫 Reach me at weronikaadamkiewicz@gmail.com
 
 <!---
